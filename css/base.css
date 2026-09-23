@@ -195,7 +195,7 @@ body #cdawrap {
 .project {
 	padding: 1rem;
 	max-width: 1000px;
-	margin: 20vh auto;
+	margin: 15vh auto;
 	display: grid;
 	grid-column-gap: 7vw;
 	grid-row-gap: 0.5rem;
@@ -304,7 +304,7 @@ body #cdawrap {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	margin: 40vh auto;
+	margin: 15vh auto;
 	overflow: hidden;
 }
 
@@ -510,8 +510,8 @@ body #cdawrap {
 
 .gallery--stack .gallery__item {
 	border-radius: 1.5vw;
-	width: 25vw;
-	height: 35vw;
+	width: 30vw;
+	height: 42vw;
 	z-index: 1;
 }
 
@@ -1105,7 +1105,7 @@ h1, h2, h3, .project__title, .caption {
 .project__mission p,
 .project--details p {
   color: #fff;
-  font-size: clamp(1.08rem, 1.55vw, 1.35rem);
+  font-size: clamp(1.2rem, 1.7vw, 1.5rem);
   line-height: 1.65;
   max-width: 760px;
 }
